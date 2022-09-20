@@ -1,6 +1,7 @@
 ---
 title: Your first seed
 ---
+[[数字花园]]
 
 ### Welcome!
 
